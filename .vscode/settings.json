@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "jemalloc.h": "c",
+        "stdlib.h": "c",
+        "_stdlib.h": "c"
+    }
+}
